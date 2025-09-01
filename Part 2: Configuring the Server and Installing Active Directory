@@ -18,8 +18,8 @@ On the Before You Begin and Installation Type pages, I clicked Next.
 
 - I created a new forest, specified a domain name, and set a Directory Services Restore Mode password.
 
-- I continued through the wizard, confirmed the settings, and allowed the server to reboot.
+- I continued through the wizard and allowed the server to reboot.
 
-- After the reboot, I pinned Active Directory Users and Computers to the taskbar for quick access.
+- After the reboot, I pinned Active Directory Users and Computers to the taskbar.
 
-This completes Part 2 of my help desk homelab setup.
+This completes Part 2 of my help desk homelab.
