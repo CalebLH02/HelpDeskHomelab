@@ -1,1 +1,8 @@
+For the second part of the homelab setup, I completed the following tasks:
+
+- Renamed the server for easier future use.
+- Installed Active Directory Domain Services.
+
+Renaming the Server:
+This step was straightforward. I opened File Explorer, right-clicked on This PC, and selected Rename PC to give the server a more descriptive name.
 
