@@ -1,8 +1,0 @@
-Part 1: Setting Up the Homelab
-To begin setting up my homelab, I downloaded and installed both VirtualBox and Windows Server 2022:
-
-- https://www.virtualbox.org/
-- https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
-
-Once VirtualBox was installed, I created a new virtual machine and mounted the Windows Server 2022 ISO. During the setup, I allocated sufficient resources to the VM, including RAM, CPU cores, and disk space. After configuring the VM, I powered it on and completed the Windows Server 2022 installation following the setup wizard.
-Part 1 of my help desk homelab setup is now finished.
