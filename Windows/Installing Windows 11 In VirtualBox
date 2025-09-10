@@ -1,1 +1,11 @@
+For this part of the lab, I set up a Windows 11 Enterprise virtual machine using VirtualBox. 
 
+1. Getting VirtualBox - I simply downloaded Oracle VirtualBox from the official website: https://www.virtualbox.org.
+
+2. Obtaining the Windows 11 Enterprise ISO - I went to Microsoft’s Evaluation Center to get a free trial ISO of Windows 11 Enterprise. 
+The ISO file is the installation media needed to install Windows inside VirtualBox.
+
+3. Creating the VM in VirtualBox - I opened VirtualBox and selected new VM. Then it was named “Windows 11 Enterprise”. 
+VirtualBox will recognize the ISO and automatically fill out the information for the operating system. 
+I then assigned system resources: RAM, processors, and a hard disk. Next was mounting the Windows 11 Enterprise ISO to the VM’s virtual optical drive. 
+I started the VM, which booted into the Windows 11 installer and I followed the on-screen steps to complete the installation of Windows 11 Enterprise.
