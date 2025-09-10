@@ -1,1 +1,16 @@
+Before diving deeper into IT help desk info, it’s important to understand the basics of how computers actually work.
+
+Binary and How It Works?
+
+Computers don’t understand human language. They use binary, which is just 0s and 1s.
+A 0 means “off”, or “false”, and that means no electrical signal. 1 means “on”, or “true”, and that a signal is present.
+Everything a computer does, such as text, images, music, and programs, is ultimately represented in binary. 
+For a very simple example, the number 5 in binary is 101. 
+
+Bits and Bytes?
+
+A bit is the smallest piece of data in a computer. It can only be 0 or 1.
+A byte is 8 bits. For example, 01010101.
+Bytes are used to store small amounts of data.
+Common units are kilobyte, or KB,which 1,024 bytes. megabyte, or MB, which is 1,024 KB, and finally gigabyte, or GB, which is 1,024 MB.
 
