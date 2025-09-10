@@ -14,3 +14,9 @@ A byte is 8 bits. For example, 01010101.
 Bytes are used to store small amounts of data.
 Common units are kilobyte, or KB,which 1,024 bytes. megabyte, or MB, which is 1,024 KB, and finally gigabyte, or GB, which is 1,024 MB.
 
+Logic Gates?
+At the lowest level, computers compute using logic gates which are just simple circuits that take one or two inputs and produce an output. 
+For example, there is the AND Gate. Its output is 1 only if both inputs are 1. 
+There is also the OR Gate, which outputs 1 if at least one input is 1. 
+The NOT Gate is another, as it flips the input (0 → 1, 1 → 0). 
+These are just three of many different gates, but these are the most common ones. By combining these gates, you can build adders, calculators, CPUs, and eventually, entire computers.
