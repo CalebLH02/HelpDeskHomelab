@@ -20,3 +20,19 @@ For example, there is the AND Gate. Its output is 1 only if both inputs are 1.
 There is also the OR Gate, which outputs 1 if at least one input is 1. 
 The NOT Gate is another, as it flips the input (0 → 1, 1 → 0). 
 These are just three of many different gates, but these are the most common ones. By combining these gates, you can build adders, calculators, CPUs, and eventually, entire computers.
+
+Registers and Instructions?
+Registers are storage locations inside the CPU. They hold data the processor is currently working on. 
+Instructions is the CPU following a list of instructions, like “add these two numbers” or “move this value into memory.” 
+Together, registers and instructions are the core of how programs run.
+
+Compilers and Abstraction?
+Writing instructions directly in binary is terrible. Instead, we use programming languages. 
+A compiler takes human-readable code, like C++, Java, or Python, and translates it into machine code for the computer to understand. 
+Abstraction essentially means we don’t need to think about the 0s and 1s when writing programs as the higher-level languages lets us focus on solving problems, while the compiler handles the translation. 
+
+Examples of abstraction levels are like this:
+
+Hardware (binary, gates, registers)
+Assembly language (low-level instructions like MOV AX, 1)
+High-level language (like print("Hello World"))
