@@ -2,3 +2,8 @@ ESD Precautions & Opening Computers
 Electrostatic Discharge is static electricity that can damage computer parts, and also harm you. 
 Always ground yourself before touching components, such as using an anti-static wrist strap or touching metal. 
 And, when opening a PC, always unplug it from power first!
+
+CPU (Central Processing Unit)
+The “brain” of the computer. It executes instructions, does calculations, and manages data flow. 
+Modern CPUs typically have multiple cores to handle tasks in parallel, which in turn makes a faster PC. 
+With the CPU working so much, it uses a heatsink and fan, or liquid cooling, to prevent overheating.
