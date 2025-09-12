@@ -7,3 +7,16 @@ CPU (Central Processing Unit)
 The “brain” of the computer. It executes instructions, does calculations, and manages data flow. 
 Modern CPUs typically have multiple cores to handle tasks in parallel, which in turn makes a faster PC. 
 With the CPU working so much, it uses a heatsink and fan, or liquid cooling, to prevent overheating.
+
+RAM (Random Access Memory)
+Temporary storage the CPU uses to hold data it’s actively working on. 
+A term you’ll hear RAM referred to as is volatile, which means data is lost when the computer powers off. 
+The more RAM, the better multitasking and performance for your PC.
+
+Drives (Storage)
+Two of the most common devices for storage are HDD, Hard Disk Drive, and SSD (Solid State Drive). 
+An HDD is mechanical, cheaper, has very large capacity but moves rather slow. An SSD is faster, uses flash memory, 
+and has no moving parts. Both are used. So it is really up to personal preference.
+
+PSU (Power Supply Unit)
+The PSU simply converts AC wall power to DC power for computer components.
